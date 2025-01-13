@@ -26,11 +26,7 @@ Connect the Pico 2W to the Waveshare SX1262 module. It's an expansion module tha
 
 2. Open the project in VS Code and adjust `radio.setFrequency(868.0);` to match your region (default setting: 868 MHz).
 
-3. Select the correct board and port:
-    - Board: `Raspberry Pi Pico/RP2040/RP2350`
-    - Port: Select the appropriate port for your Pico 2W
-
-4. Upload the code to the Pico 2W.
+3. Compile and flash to your Pico
 
 ## Usage
 
